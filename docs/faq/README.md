@@ -38,3 +38,5 @@ Example is available at `/books/example_book/example_quiz`
 
 ## How it works?
 This site uses [Vuepress](https://v1.vuepress.vuejs.org/) and generates fully static website to be hosted on for e.g. Github Pages.
+
+feel free to add issue!
