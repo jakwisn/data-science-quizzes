@@ -1,6 +1,6 @@
 # This is an example quiz, feel free to play with it
 
-## How much is 2+2?
+## How much is 2+2, is it dupa?
 
 <Answer>
 
