@@ -11,7 +11,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m "deploy"
-git push -f git@github.com:RaRhAeu/data-science-quizzes.git master:gh-pages
+git push -f git@github.com:jakwisn/data-science-quizzes.git master:gh-pages
 
 unset BASE_URL
 
